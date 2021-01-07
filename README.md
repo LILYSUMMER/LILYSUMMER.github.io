@@ -80,4 +80,8 @@ $ git push origin master
 * `|`(파이프) 사이에 칼럼을 작성하고 `enter` 를 입력합니다 
 * 마지막 칼럼을 작성하고 뒤에 `|` 를 붙여줍니다.
 
-| **working directory**|
+| **working directory** | **Statging area** | **remoe repo** |
+| working tree | index | history |
+| working copy | cache | tree|
+
+
