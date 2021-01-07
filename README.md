@@ -62,7 +62,7 @@ $ git push origin master
 
 * `![]()` 을 작성하고 `()` 안에 이미지 주소를 입력합니다. `[]`안에는 이미지 파일의 이름을 작성합니다.
 * 로컬에 이미지파일을 저장한 경우는 절대 경로가 아닌 상대 경로를 사용하여 이미지를 저장합니다.
-
+* `{: .align-center}` 이미지 중앙정렬.
 ![Git_logo_2-color.png](https://image.librewiki.net/1/1d/Git_logo_2-color.png) ![asasf.png](https://media.vlpt.us/images/cyongchoi/post/9f4a8b71-bdf4-4266-b25c-40fc5e29d761/asasf.png)
 
 ## 1.5 Link
@@ -79,6 +79,7 @@ $ git push origin master
 
 * `|`(파이프) 사이에 칼럼을 작성하고 `enter` 를 입력합니다 
 * 마지막 칼럼을 작성하고 뒤에 `|` 를 붙여줍니다.
+* `|:---:|:----:|:----|` 이걸 추가해줘야 표가 완성된다..
 
 | working directory | Statging area | remoe repo |
 |:---:|:----:|:----|
@@ -86,3 +87,12 @@ $ git push origin master
 | working copy | cache | tree |
 
 
+## 1.7 기타 
+### 인용문 
+* `>` 을 입력하고 `enter` 키를 누릅니다
+> git은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 분산 버전 관리 시스템이다. 
+
+* 인용문 안에 인용문을 작성하면 중첩해서 사용할 수 있다. 
+
+> $ git add.
+>> $ git 
