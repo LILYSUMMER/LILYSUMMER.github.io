@@ -72,3 +72,12 @@ $ git push origin master
 * `[]()` 을 작성하고 `()` 안에 링크 주소를 작성하고 `[]`안에 어떤 링크 주소인지 작성합니다
 
 [git 공식문서](https://git-scm.com/doc)
+[github 공식문서](https://github.com/)
+
+## 1.6 Table 
+> 표를 작성하여 요소를 구분할 수 있습니다.
+
+* `|`(파이프) 사이에 칼럼을 작성하고 `enter` 를 입력합니다 
+* 마지막 칼럼을 작성하고 뒤에 `|` 를 붙여줍니다.
+
+| **working directory**|
