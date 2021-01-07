@@ -81,10 +81,8 @@ $ git push origin master
 * 마지막 칼럼을 작성하고 뒤에 `|` 를 붙여줍니다.
 
 | working directory | Statging area | remoe repo |
-
-
-
+|:---:|:----:|:----|
 | working tree | index | history |
-| working copy | cache | tree|
+| working copy | cache | tree |
 
 
