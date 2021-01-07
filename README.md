@@ -65,3 +65,10 @@ $ git push origin master
 
 ![Git_logo_2-color.png](https://image.librewiki.net/1/1d/Git_logo_2-color.png) ![asasf.png](https://media.vlpt.us/images/cyongchoi/post/9f4a8b71-bdf4-4266-b25c-40fc5e29d761/asasf.png)
 
+## 1.5 Link
+
+> 특정 주소로 링크를 걸 때 사용합니다 
+
+* `[]()` 을 작성하고 `()` 안에 링크 주소를 작성하고 `[]`안에 어떤 링크 주소인지 작성합니다
+
+[git 공식문서](https://git-scm.com/doc)
