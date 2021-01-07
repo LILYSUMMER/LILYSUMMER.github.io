@@ -63,6 +63,5 @@ $ git push origin master
 * `![]()` 을 작성하고 `()` 안에 이미지 주소를 입력합니다. `[]`안에는 이미지 파일의 이름을 작성합니다.
 * 로컬에 이미지파일을 저장한 경우는 절대 경로가 아닌 상대 경로를 사용하여 이미지를 저장합니다.
 
-![Git_logo_2-color.png](https://image.librewiki.net/1/1d/Git_logo_2-color.png)
-![fk0849hvg2rt13bpqhjy.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--3GWZPuoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/fk0849hvg2rt13bpqhjy.jpg)
+![Git_logo_2-color.png](https://image.librewiki.net/1/1d/Git_logo_2-color.png) ![fk0849hvg2rt13bpqhjy.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--3GWZPuoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/fk0849hvg2rt13bpqhjy.jpg)
 
