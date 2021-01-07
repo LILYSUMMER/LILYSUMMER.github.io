@@ -51,5 +51,17 @@
 `add` 한 요소를 remote 저장소에 올리려면 `$ git push origin master` 를 터미널에 입력합니다. 
 
 ```
+$ git add .
+$ git commit -m "first commit"
+$ git push origin master
 ```
+
+## 1.4 Image
+
+> 로컬에 있는 이미지를 삽입하거나 이미지 링크를 활용하여 이미지를 나타낼 때 사용합니다.
+
+* `![]()` 을 작성하고 `()` 안에 이미지 주소를 입력합니다. `[]`안에는 이미지 파일의 이름을 작성합니다.
+* 로컬에 이미지파일을 저장한 경우는 절대 경로가 아닌 상대 경로를 사용하여 이미지를 저장합니다.
+
+![Git_logo_2-color.png](https://image.librewiki.net/1/1d/Git_logo_2-color.png)
 
